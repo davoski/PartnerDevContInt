@@ -1,0 +1,67 @@
+{
+    "EmailMessageTrigger.trigger": {
+        "createdById": "005E0000001UMnCIAW", 
+        "createdByName": "David Walshe", 
+        "createdDate": "2014-04-07 09:30:34", 
+        "fileName": "unpackaged/triggers/EmailMessageTrigger.trigger", 
+        "fullName": "EmailMessageTrigger", 
+        "id": "01qE0000000TllJIAS", 
+        "lastModifiedById": "005E0000001UMnCIAW", 
+        "lastModifiedByName": "David Walshe", 
+        "lastModifiedDate": "2014-04-07 09:49:08", 
+        "mmState": "clean", 
+        "type": "ApexTrigger"
+    }, 
+    "Email_Header.resource": {
+        "createdById": "005E0000001UMnCIAW", 
+        "createdByName": "David Walshe", 
+        "createdDate": "2014-03-05 09:06:13", 
+        "fileName": "unpackaged/staticresources/Email_Header.resource", 
+        "fullName": "Email_Header", 
+        "id": "081E0000000TdTOIA0", 
+        "lastModifiedById": "005E0000001UMnCIAW", 
+        "lastModifiedByName": "David Walshe", 
+        "lastModifiedDate": "2014-03-05 09:10:45", 
+        "mmState": "clean", 
+        "type": "StaticResource"
+    }, 
+    "KA_Display.component": {
+        "createdById": "005E0000001UMnCIAW", 
+        "createdByName": "David Walshe", 
+        "createdDate": "2014-02-25 11:29:06", 
+        "fileName": "unpackaged/components/KA_Display.component", 
+        "fullName": "KA_Display", 
+        "id": "099E0000000TXelIAG", 
+        "lastModifiedById": "005E0000001UMnCIAW", 
+        "lastModifiedByName": "David Walshe", 
+        "lastModifiedDate": "2014-03-04 11:47:59", 
+        "mmState": "clean", 
+        "type": "ApexComponent"
+    }, 
+    "KA_Display_Controller.cls": {
+        "createdById": "005E0000001UMnCIAW", 
+        "createdByName": "David Walshe", 
+        "createdDate": "2014-02-25 11:31:08", 
+        "fileName": "unpackaged/classes/KA_Display_Controller.cls", 
+        "fullName": "KA_Display_Controller", 
+        "id": "01pE0000000Wr5QIAS", 
+        "lastModifiedById": "005E0000001UMnCIAW", 
+        "lastModifiedByName": "David Walshe", 
+        "lastModifiedDate": "2014-03-04 11:32:47", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "OppOverride.page": {
+        "createdById": "005E0000001UMnCIAW", 
+        "createdByName": "David Walshe", 
+        "createdDate": "2014-01-30 16:59:01", 
+        "fileName": "unpackaged/pages/OppOverride.page", 
+        "fullName": "OppOverride", 
+        "id": "066E0000000VppRIAS", 
+        "lastModifiedById": "005E0000001UMnCIAW", 
+        "lastModifiedByName": "David Walshe", 
+        "lastModifiedDate": "2014-01-30 16:59:01", 
+        "mmState": "clean", 
+        "type": "ApexPage"
+    }
+}

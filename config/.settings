@@ -1,0 +1,19 @@
+{
+    "username": "dwalshe@78demo.com", 
+    "environment": "production", 
+    "project_name": "My Partner Dev CITest", 
+    "workspace": "C:\\Users\\DavidWalshe\\MM Workspaces", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "B0U6WJ5Z1RTKEUPQEQCK4WWTR1F3LWGD", 
+    "metadata_container": "1dcE0000000PDTbIAO", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}

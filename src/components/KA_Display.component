@@ -1,0 +1,9 @@
+<apex:component controller="KA_Display_Controller" access="global">
+  <apex:attribute name="caseId" type="Id" description="Case Id" assignTo="{!caseId2}"/> 
+  <table>
+    <tr><th>Title</th><th>Summary</th></tr>
+      <apex:repeat var="kaVersion" value="{!kaVersionList}">
+        <tr><td>{!kaVersion.title}</td><td>{!kaVersion.summary}</td></tr>
+      </apex:repeat>
+  </table>
+</apex:component>
